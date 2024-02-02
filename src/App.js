@@ -1,7 +1,7 @@
 
 import './App.css';
 import React from 'react';
-import CenteredBox from './CenteredBox';
+import CenteredBox from './components/CenteredBox';
 
 
 
@@ -13,6 +13,7 @@ function App() {
   
   return (
     <div className="App">
+      
 
       <CenteredBox />
    
